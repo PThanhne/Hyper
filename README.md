@@ -26,27 +26,27 @@
 ![Trang chủ nền tối](https://github.com/user-attachments/assets/476b425a-e9c3-4633-801c-1749fe1b503a)
 
 ### 📊 Các loại mã giao dịch phổ biến
-![Mã giao dịch phổ biến](https://github.com/user-attachments/assets/ba94bfbd-3469-4286-98dc-57375325b7b7)
+![Mã giao dịch phổ biến](https://github.com/user-attachments/assets/9fb9d125-aac4-499d-9b00-a81d622d3a37)
 
 ---
 
 ## 🔐 Trang đăng nhập
-![Trang đăng nhập](https://github.com/user-attachments/assets/697fd936-7c8a-412b-b9ff-aac2609ed43e)
+![Trang đăng nhập](https://github.com/user-attachments/assets/ba94bfbd-3469-4286-98dc-57375325b7b7)
 
 ---
 
 ## 📅 Trang lịch kinh tế – Các sự kiện
-![Lịch kinh tế](https://github.com/user-attachments/assets/8729f8b9-0c62-49b7-ac1d-14f3202da91a)
+![Lịch kinh tế](https://github.com/user-attachments/assets/697fd936-7c8a-412b-b9ff-aac2609ed43e)
 
 ---
 
 ## 🧠 Trang đăng bài của các chuyên gia
-![Bài viết chuyên gia](https://github.com/user-attachments/assets/6e8763d6-e4cd-4bb3-9d7c-6cdcfae4bc0d)
+![Bài viết chuyên gia](https://github.com/user-attachments/assets/8729f8b9-0c62-49b7-ac1d-14f3202da91a)
 
 ---
 
 ## 👤 Trang cá nhân người dùng
-![Trang cá nhân](https://github.com/user-attachments/assets/9fb9d125-aac4-499d-9b00-a81d622d3a37)
+![Trang cá nhân](https://github.com/user-attachments/assets/6e8763d6-e4cd-4bb3-9d7c-6cdcfae4bc0d)
 
 ---
 
