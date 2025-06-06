@@ -3,6 +3,7 @@ Forex Website Hyper :
 o	Hyper là một nền tảng trực tuyến cho phép người dùng theo dõi, phân tích trên thị trường ngoại hối. Trang web này cung cấp cho người dùng các biểu đồ giá, tin tức và cập nhật thị trường, giúp họ đưa ra quyết định đầu tư thông minh và hiệu quả.
 •	Trang chủ của website ở chế độ nền sáng:
 ![image](https://github.com/user-attachments/assets/0f83f561-a3c8-476e-af61-d49c7f66ef33)
+
 •	Trang chủ của website ở chế độ nền tối:
 ![image](https://github.com/user-attachments/assets/476b425a-e9c3-4633-801c-1749fe1b503a)
 Trang chủ: các loại mã giao dịch phổ biến:
@@ -16,7 +17,8 @@ Trang đăng nhập của website:
 Trang cá nhân người dùng
 ![image](https://github.com/user-attachments/assets/9fb9d125-aac4-499d-9b00-a81d622d3a37)
 Trang hiển thị thông tin các mã giao dịch
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/40bbb4d2-3178-440b-b865-6b769f8c6162)
+
 
 
 
