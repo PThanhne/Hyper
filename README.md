@@ -55,20 +55,12 @@
 
 ## 🛠️ Công nghệ sử dụng
 
-- Frontend: React.js  
-- Realtime: Socket.IO  
-- Server: Node.js, Express  
-- Authentication, Chart APIs, v.v. *(tuỳ chỉnh thêm nếu có)*
+- Frontend: HTML, CSS, Bootstrap 5, Javascript 
+- Back-end : Javascript, PHP, Laravel
 
 ---
 
 ## 📌 Ghi chú
 
 Dự án đang được phát triển và cập nhật thêm các tính năng nâng cao như thông báo theo thời gian thực, biểu đồ tương tác, và phân tích AI thị trường.
-
----
-
-## 📫 Liên hệ
-
-Nếu bạn quan tâm hoặc muốn đóng góp, vui lòng mở issue hoặc liên hệ qua email.
 
